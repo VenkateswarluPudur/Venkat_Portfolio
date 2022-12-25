@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Pudur Lakshmi Venkateswarlu</title>
+    <link>https://VenkateswarluPudur.github.io/Venkat_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Pudur Lakshmi Venkateswarlu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Oct 2022 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://VenkateswarluPudur.github.io/Venkat_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intrusion Detection.</title>
+      <link>https://VenkateswarluPudur.github.io/Venkat_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 10 Oct 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://VenkateswarluPudur.github.io/Venkat_Portfolio/post/project-3/</guid>
+      <description>This Project is Completely on detecting the suspicious activities. Trained our Model with the normal activities which are taken from our Database. The Model can capture the Activities, If any unknown activity is captured apart from the activity of our Data base, The model Predicts it as Suspicious Activity. We have used Different Models like YOLO, MTCNN, CNN and Other Models, experimented them, and have choosen the best Model. We have successfully Captured the IP Camera through the Python for Intrusion Detection.</description>
+    </item>
+    
+    <item>
+      <title>Stock Analysis and Forex Predictions.</title>
+      <link>https://VenkateswarluPudur.github.io/Venkat_Portfolio/post/project-2/</link>
+      <pubDate>Fri, 10 Jun 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://VenkateswarluPudur.github.io/Venkat_Portfolio/post/project-2/</guid>
+      <description>This Project is Completely on Predicting the Currency Pairs with sentimental analysis with Deep Learning and Machine Learning Models. Extracted the Data From API and Stored the Data in the Database and retrieved the data to the python from the Database. Trained the last 5 years of Historical Data Currency Pairs with the sentimental analysis using LSTM,GRU,BI-Directional LSTM and XG-Boost. And Used lot of Technical Indicators to know the future trend.</description>
+    </item>
+    
+    <item>
+      <title>Real Time Sports Analysis and Prediction</title>
+      <link>https://VenkateswarluPudur.github.io/Venkat_Portfolio/post/project-1/</link>
+      <pubDate>Sun, 09 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://VenkateswarluPudur.github.io/Venkat_Portfolio/post/project-1/</guid>
+      <description>Created a tool that estimates Sports Prediction by giving the Probabilities and Odds. Extracted the Data From API and Stored the Data in the Database and retrieved the data to the python from the Database. Pre-Processed the Historical Data of Last 10 Years, Engineered and Analysed the data to take the best Features for training the model. Optimized Random Forest, XG-Boost using GridsearchCV to get the best model. Later Automated the model in the AWS, Created the CI/CD Pipelines and deployed in the Rest API by invoking the End Point Sagemaker and integrated with the AWS Lambda.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://VenkateswarluPudur.github.io/Venkat_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://VenkateswarluPudur.github.io/Venkat_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL    LinkedIn:| https://www.linkedin.com/in/pudur-l-217a55238/
+GitHub:| https://github.com/VenkateswarluPudur</description>
+    </item>
+    
+  </channel>
+</rss>
